@@ -11,4 +11,6 @@ function secondFunction () {
     alert('change3')
     alert('chage4 - in a rebase')
     alert('change5 - in aaaaaaaaaaaa')
+    alert('testtesttesttes')
+    alert('test rebase')
 }
