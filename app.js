@@ -13,4 +13,5 @@ function secondFunction () {
     alert('change5 - in aaaaaaaaaaaa')
     alert('testtesttesttes')
     alert('test rebase')
+    alert('master alert')
 }
