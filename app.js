@@ -1,6 +1,7 @@
 function helloWorld () {
     alert('hi')
     alert('hi from github')
+    alert('hi from local')
 }
 
 function secondFunction () {
