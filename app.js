@@ -15,3 +15,7 @@ function secondFunction () {
     alert('test rebase')
     alert('master alert')
 }
+
+function consoleFunction () {
+    console.log('console1')
+}
