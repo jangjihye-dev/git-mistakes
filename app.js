@@ -1,5 +1,6 @@
 function helloWorld () {
     alert('hi')
+    alert('hi from github')
 }
 
 function secondFunction () {
